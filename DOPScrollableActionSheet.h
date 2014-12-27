@@ -1,22 +1,16 @@
-DOPScrollableActionSheet
-========================
+//
+//  DOPScrollableActionSheet.h
+//  DOPScrollableActionSheet
+//
+//  Created by weizhou on 12/27/14.
+//  Copyright (c) 2014 fengweizhou. All rights reserved.
+//
 
-Multi-row scrollable action sheet
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-tested on 
+@class DOPAction;
 
-1. iPad Air 7.1 8.1
-2. iPhone5s 7.1 8.1
-
-
-on iPad
-
-![image](https://github.com/dopcn/DOPDropDownMenu/blob/master/images/sample_ipad.gif)
-
-on iPhone
-![image](https://github.com/dopcn/DOPDropDownMenu/blob/master/images/sample_iphone.gif)
-
-```objc
 //DOPAction                 model
 //DOPScrollableActionSheet  view and partial controller for showing and programmatical dismissing
 
@@ -51,4 +45,3 @@ on iPhone
                      handler:(void(^)(void))handler;
 
 @end
-```
