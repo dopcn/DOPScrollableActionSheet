@@ -11,10 +11,10 @@ tested on
 
 on iPad
 
-![image](https://github.com/dopcn/DOPDropDownMenu/blob/master/images/sample_ipad.gif)
+![image](https://github.com/dopcn/DOPScrollableActionSheet/blob/master/images/sample_ipad.gif)
 
 on iPhone
-![image](https://github.com/dopcn/DOPDropDownMenu/blob/master/images/sample_iphone.gif)
+![image](https://github.com/dopcn/DOPScrollableActionSheet/blob/master/images/sample_iphone.gif)
 
 ```objc
 //DOPAction                 model
