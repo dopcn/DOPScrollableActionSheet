@@ -52,4 +52,4 @@ on iPhone
 @end
 ```
 
-all the icon come from [mob.com](http:mob.com)
+all the icons come from [mob.com](http:mob.com)
