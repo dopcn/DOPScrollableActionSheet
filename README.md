@@ -21,7 +21,6 @@ on iPhone
 //DOPScrollableActionSheet  view and partial controller for showing and programmatical dismissing
 
 //multi scrollable row actionsheet
-//only for iPhone
 @interface DOPScrollableActionSheet : UIView
 /*
     actions = @[@"row title one",                   //with title
@@ -52,3 +51,5 @@ on iPhone
 
 @end
 ```
+
+all the icon come from [mob.com](http:mob.com)
